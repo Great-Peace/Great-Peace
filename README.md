@@ -123,9 +123,6 @@ I'm an **AI/ML software engineer** who ships generative-AI products and fine-tun
   ### 💭 Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-  ### 🐍 Watch my contribution graph get eaten by the snake!
-  ![snake gif](https://raw.githubusercontent.com/Great-Peace/Great-Peace/output/github-contribution-grid-snake-dark.svg)
-
   ---
 
   ![Profile Views](https://komarev.com/ghpvc/?username=Great-Peace&color=8B5CF6&style=for-the-badge&label=Profile+Views)
